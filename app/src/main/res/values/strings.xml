@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">JobTracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="add">add</string>
+    <string name="phone_number">phone_number</string>
+    <string name="contact_email">contact_email</string>
+    <string name="contact_name">contact_name</string>
+    <string name="location">location</string>
+    <string name="date_applied">date_applied</string>
+    <string name="job_role">job_role</string>
+    <string name="company_name">company_name</string>
+    <string name="cancel">Cancel</string>
+    <string name="textview">TextView</string>
+    <string name="rejected">Rejected</string>
+    <string name="view">View</string>
+    <string name="status">Status</string>
+    <string name="status_prompt">Select Job Status</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string-array name="status_list">
+        <item>Researching</item>
+        <item>Applied</item>
+        <item>Under Review</item>
+        <item>Interview</item>
+        <item>Hired</item>
+        <item>Rejected</item>
+    </string-array>
+</resources>
